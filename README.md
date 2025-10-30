@@ -1,4 +1,4 @@
 # apna-college-demo
 this is my first git repository
 <br/>
-Author abhinav gahlaut
+Author abhinav gahlaut (mera college)
